@@ -33,7 +33,7 @@ var BudgetLib = {
   OFFICER_DESCRIPTION_TABLE_ID: "1uSDhUpVbk3c7m0E7iT87LP8GfPk6vnczh-y64sI",
   
   title: "Asheville City Budget",
-  startYear: 2006,
+  startYear: 2007,
   endYear: 2012,
   loadYear: 2012, //viewing year
   fundView: "", //viewing fund
