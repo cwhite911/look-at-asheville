@@ -28,7 +28,7 @@ var BudgetLib = {
 
   //IDs used to reference Fusion Tables, where we store our data
   FusionTableApiKey: "AIzaSyAxoKylS0g9p7HuFalideL2etQsEzLCThs",
-  BUDGET_TABLE_ID: "1eC4r9Qy86Pbs-mXGMGVF_yqOUlv4rat7GsikBrA", //main budget table with expenditures/appropriations per department per year
+  BUDGET_TABLE_ID: "1UdOEze52V-skslSrkvUoJqYK9DIZNWcHUZiIdHA", //main budget table with expenditures/appropriations per department per year //1eC4r9Qy86Pbs-mXGMGVF_yqOUlv4rat7GsikBrA
   FUND_DESCRIPTION_TABLE_ID: "eC4r9Qy86Pbs-mXGMGVF_yqOUlv4rat7GsikBrA",
   
   title: "Asheville City Budget",
